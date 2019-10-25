@@ -1,0 +1,1 @@
+from detectors import face_detector
